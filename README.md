@@ -40,7 +40,7 @@ You may need to log out and log in to see all the changes.
 
 
 ## Editing the configuration file
-You can make changes to Konsave's configuration file according to your needs. The configuration file is located in `~/.config/konsave/config.yaml`.
+You can make changes to Konsave's configuration file according to your needs. The configuration file is located in `~/.config/konsave/conf.yaml`.
 When using Konsave for the first time, you'll be prompted to enter your desktop environment.  
 For KDE Plasma users, the configuration file will be pre-configured.
 
